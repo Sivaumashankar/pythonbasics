@@ -1,0 +1,3 @@
+select count(venue-id) from FootballVenue;
+
+select venue_name as location,capacity as Volume from FootballVenue;

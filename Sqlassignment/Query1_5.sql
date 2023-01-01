@@ -1,0 +1,1 @@
+select distinct job_name as Desgination from EmployeeDetails;
